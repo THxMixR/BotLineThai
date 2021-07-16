@@ -4,12 +4,12 @@ from .channel import Channel
 from .oepoll import OEPoll
 from akad.ttypes import OpType
 
-__copyright__       = 'Copyright 2018 by Fadhiil Rachman'
-__version__         = '3.0.8'
+__copyright__       = 'Dev. 2021 by atipat witidnun'
+__version__         = '4.0.0'
 __license__         = 'BSD-3-Clause'
-__author__          = 'Fadhiil Rachman'
-__author_email__    = 'fadhiilrachman@gmail.com'
-__url__             = 'http://github.com/fadhiilrachman/line-py'
+__author__          = 'Atipat Witidnun'
+__author_email__    = 'MixROP@icoud.com'
+__url__             = 'https://github.com/THxMixR/BotLineThai'
 
 __all__ = ['LINE', 'Channel', 'OEPoll', 'OpType', 'Call']
 #test
